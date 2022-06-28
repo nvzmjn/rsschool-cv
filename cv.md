@@ -4,7 +4,7 @@
 ### Phone: +998977377135
 ### E-mail: kim.ilya87@gmail.com
 ### Telegram: @kilig744
-### GitHub: [nvzmjn] (https://github.com/nvzmjn) 
+### GitHub: [nvzmjn](https://github.com/nvzmjn) 
 
 ## Education and Skills
 - Taskent Goverment University of Economy (bachelor degree)
@@ -16,8 +16,8 @@
 
 ## Languages
 - Russian (native)
-- English (intermediate B1 according <www.efset.com>) 
-
+- English (intermediate B1 according <www.efset.com>) \
+![](eng1.png)
 
 
 
