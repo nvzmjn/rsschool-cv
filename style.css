@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto+Flex:opsz@8..144&family=Roboto+Slab&display=swap');
+
+body {
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Questrial", sans-serif;
+    }
+
+a {
+    color: rgb(49, 30, 156);
+}
+
+.container {
+background-color: #ffffffe8; 
+}
+
+.main {
+display: flex;
+justify-content: center;
+margin: 0 auto;
+width: 920px;
+}
+
+.avatar {
+    display: block;
+    margin-top: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 35px;
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 025);
+}
+
+ul > li {
+    margin: 10px 5px;
+}
+
+.block-left {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    display: block;
+    width: 300px;
+    background-color: #dadadad0;
+ 
+}
+
+.block-left h2 {
+    color: #f0ae12;
+    margin: 0px 25px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+.block-right {
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    display: block;
+    width: 600px;
+    padding-left: 20px;
+}
+
+table {
+    margin-top: 5px;
+}
+
+.block-right h2 {
+    
+    padding-bottom: 5px;
+    padding-top: 20px;
+}
+
+.block-right h4 {
+    margin: 10px 0;
+}
+
+p {
+    margin-top: 5px;
+}
+
+ul {
+    margin-top: 5px;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+    font-family: 'ralewaybold';
+}
+
+h4 {
+    font-size: 20px;
+}
+
+footer {
+    width: 920px;
+    height: 50px;
+  margin: 0 auto;
+
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rss-logo {
+width: 60px;
+
+}
+
+.git-logo {
+    width: 50px;
+}
