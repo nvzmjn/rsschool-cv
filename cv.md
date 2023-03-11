@@ -34,3 +34,26 @@ function even_or_odd(n) {
     }
 };
 ```
+
+
+## **Work Expirience**
+
++  OJSCB Samarkand Bank (2009 - 2012)
++  Unieq Finance Leasing (2013 - 2019)
++  UNIEQ GROUP (2013 - 2019)
++  United Industrial Equipment (2016 - 2019)
++  Certus Textiles (2019 - now)
+
+  
+## **Education**
+
++ Tashkent State University of Economics (Bachelor's degree)
++ Plekhanov Russian University of Economics (Master's degree)
++ [Self learning JavaScript](https://learn.javascript.ru/)
+  
+ 
+## **Languages**
+
++ Russian (native)
++ English (intermediate B1)  
+
